@@ -122,3 +122,5 @@ Share just this one `.exe` file — no images, no folders, nothing else needed.
 
 **playsound error on Windows?**
 - Run `pip install playsound==1.2.2` (newer versions have a known bug on Windows).
+
+**Open to new updates**
